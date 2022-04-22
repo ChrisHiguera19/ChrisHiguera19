@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ChrisHiguera19
-- 👀 I’m interested in ... driver car, truck, bus.
+- 👋 Hi, I’m @ChrisHiguera19. my name es Christian Antonio Higuera
+- 👀 I’m interested in ... driver car, truck, bus. Programmer, 
 - 🌱 I’m currently learning ... English, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
